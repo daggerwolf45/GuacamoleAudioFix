@@ -7,12 +7,11 @@ Module to replace system audio configuration with fully implemented version. Thi
 * **Module Format**: Magisk or KernelSU
 * **Audio Modification Libraries**: Should be completly compatible. Tested working with Viper4Android and Moto Dolby
 
-### Limitations
+#### Limitations
 
 This will likely not work on LineageOS 21 as they use a non-standard mixer configuration. However this could be modified to support it, there is no technical limitation.
-<hr>
 
-### Hardware
+### Devices
 I have only tested on the OnePlus 7 Pro, however it almost certainly works on the 7T aswell.
 
 This *may* work on any device with a Snapdragon 855/860 (msmnile) however the way the patch is done would likely need to be changed to be more generic as there are currently some OnePlus specific fields included.
@@ -25,8 +24,8 @@ This *may* work on any device with a Snapdragon 855/860 (msmnile) however the wa
 
 
 ## Credit
-* [Statixos][5] Corrected pahu and 11811 mixers
-* [Pixelify wiki][4] for pointing me in the right direction (although with an incorrect reason)
+* [Statixos][5]: Corrected pahu and 11811 mixers
+* [Pixelify wiki][4]: Putting me scent of this bug.
 
 
 [1]: https://github.com/polodarb/GMS-Flags

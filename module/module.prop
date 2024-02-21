@@ -1,0 +1,9 @@
+id=msmnile.audio_config_fix
+name=Guacamole Audio Fix
+version=v0.1
+versionCode=01000
+author=daggerwolf45
+description=Replace system audio configuration with fully implemented version. This fixes 2023+ Google Call Screening
+support=https://github.com/daggerwolf45/GuacamoleAudioFix
+updateJson=https://raw.githubusercontent.com/daggerwolf45/GuacamoleAudioFix/master/update.json
+minApi=29
