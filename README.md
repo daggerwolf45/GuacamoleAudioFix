@@ -14,7 +14,7 @@ This will likely not work on LineageOS 21 as they use a non-standard mixer confi
 ### Devices
 I have only tested on the OnePlus 7 Pro, however it almost certainly works on the 7T aswell.
 
-This *may* work on any device with a Snapdragon 855/860 (msmnile) however the way the patch is done would likely need to be changed to be more generic as there are currently some OnePlus specific fields included.
+This *may* work on any device with a Snapdragon 855/860 (msmnile) however the way the patch is implemented would need to be changed to be more generic as there are currently some OnePlus specific fields included.
 
 ## Features
 * **Google Dialer Call Screening audio**
