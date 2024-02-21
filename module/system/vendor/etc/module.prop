@@ -1,7 +1,0 @@
-id=Greenify4Magisk
-name=Greenify4Magisk
-version=v5.0(BETA)
-versionCode=2
-author=Rohan Debroy
-description=A very simple module to make Greenify work as a privileged app, to achieve a faster hibernation performance, systemlessly.
-support=https://github.com/rohandebroy55/Greenify4Magisk
